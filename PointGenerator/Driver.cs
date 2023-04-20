@@ -10,7 +10,7 @@ namespace PointGenerator
     {
         static void Main(string[] args)
         {
-            var generator = new GeneratorYOURNAMES();
+            var generator = new GeneratorLove();
 
             const int nPoints = 10;
 
